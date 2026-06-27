@@ -1,0 +1,2 @@
+/c game.forces["enemy"].set_evolution_factor(X, game.player.surface) /*  set_evolution_factor */
+/c for _,v in pairs(game.player.force.technologies) do v.researched=false end /* set all technologies to unresearched */
