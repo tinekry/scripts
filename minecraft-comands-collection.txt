@@ -1,0 +1,2 @@
+/give @p minecraft:potion{display:{Name:"{\"text\":\"something\",\"italic\":\"false\"}"}} 
+// Gives the player a custom potion named "something"
