@@ -1,2 +1,6 @@
 /give @p minecraft:potion{display:{Name:"{\"text\":\"something\",\"italic\":\"false\"}"}} 
 // Gives the player a custom potion named "something"
+
+/attribute @p minecraft:generic.scale base set n
+// Sets the player's scale attribute to n, making them larger
+
